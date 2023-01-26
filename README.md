@@ -1,0 +1,2 @@
+# Class-task
+Class, constructor
