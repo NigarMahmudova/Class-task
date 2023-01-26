@@ -1,0 +1,14 @@
+C:\Users\User Widnows 10 Home\Documents\C#\25012023\Class, constructor\Class, constructor\bin\Debug\netcoreapp3.1\Class, constructor.exe
+C:\Users\User Widnows 10 Home\Documents\C#\25012023\Class, constructor\Class, constructor\bin\Debug\netcoreapp3.1\Class, constructor.deps.json
+C:\Users\User Widnows 10 Home\Documents\C#\25012023\Class, constructor\Class, constructor\bin\Debug\netcoreapp3.1\Class, constructor.runtimeconfig.json
+C:\Users\User Widnows 10 Home\Documents\C#\25012023\Class, constructor\Class, constructor\bin\Debug\netcoreapp3.1\Class, constructor.runtimeconfig.dev.json
+C:\Users\User Widnows 10 Home\Documents\C#\25012023\Class, constructor\Class, constructor\bin\Debug\netcoreapp3.1\Class, constructor.dll
+C:\Users\User Widnows 10 Home\Documents\C#\25012023\Class, constructor\Class, constructor\bin\Debug\netcoreapp3.1\Class, constructor.pdb
+C:\Users\User Widnows 10 Home\Documents\C#\25012023\Class, constructor\Class, constructor\obj\Debug\netcoreapp3.1\Class, constructor.csproj.AssemblyReference.cache
+C:\Users\User Widnows 10 Home\Documents\C#\25012023\Class, constructor\Class, constructor\obj\Debug\netcoreapp3.1\Class, constructor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User Widnows 10 Home\Documents\C#\25012023\Class, constructor\Class, constructor\obj\Debug\netcoreapp3.1\Class, constructor.AssemblyInfoInputs.cache
+C:\Users\User Widnows 10 Home\Documents\C#\25012023\Class, constructor\Class, constructor\obj\Debug\netcoreapp3.1\Class, constructor.AssemblyInfo.cs
+C:\Users\User Widnows 10 Home\Documents\C#\25012023\Class, constructor\Class, constructor\obj\Debug\netcoreapp3.1\Class, constructor.csproj.CoreCompileInputs.cache
+C:\Users\User Widnows 10 Home\Documents\C#\25012023\Class, constructor\Class, constructor\obj\Debug\netcoreapp3.1\Class, constructor.dll
+C:\Users\User Widnows 10 Home\Documents\C#\25012023\Class, constructor\Class, constructor\obj\Debug\netcoreapp3.1\Class, constructor.pdb
+C:\Users\User Widnows 10 Home\Documents\C#\25012023\Class, constructor\Class, constructor\obj\Debug\netcoreapp3.1\Class, constructor.genruntimeconfig.cache

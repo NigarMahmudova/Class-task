@@ -1,0 +1,14 @@
+C:\Users\nigarem\Desktop\C#\Academy tasks 6\Academy tasks 6\bin\Debug\netcoreapp3.1\Academy tasks 6.exe
+C:\Users\nigarem\Desktop\C#\Academy tasks 6\Academy tasks 6\bin\Debug\netcoreapp3.1\Academy tasks 6.deps.json
+C:\Users\nigarem\Desktop\C#\Academy tasks 6\Academy tasks 6\bin\Debug\netcoreapp3.1\Academy tasks 6.runtimeconfig.json
+C:\Users\nigarem\Desktop\C#\Academy tasks 6\Academy tasks 6\bin\Debug\netcoreapp3.1\Academy tasks 6.runtimeconfig.dev.json
+C:\Users\nigarem\Desktop\C#\Academy tasks 6\Academy tasks 6\bin\Debug\netcoreapp3.1\Academy tasks 6.dll
+C:\Users\nigarem\Desktop\C#\Academy tasks 6\Academy tasks 6\bin\Debug\netcoreapp3.1\Academy tasks 6.pdb
+C:\Users\nigarem\Desktop\C#\Academy tasks 6\Academy tasks 6\obj\Debug\netcoreapp3.1\Academy tasks 6.csproj.AssemblyReference.cache
+C:\Users\nigarem\Desktop\C#\Academy tasks 6\Academy tasks 6\obj\Debug\netcoreapp3.1\Academy tasks 6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nigarem\Desktop\C#\Academy tasks 6\Academy tasks 6\obj\Debug\netcoreapp3.1\Academy tasks 6.AssemblyInfoInputs.cache
+C:\Users\nigarem\Desktop\C#\Academy tasks 6\Academy tasks 6\obj\Debug\netcoreapp3.1\Academy tasks 6.AssemblyInfo.cs
+C:\Users\nigarem\Desktop\C#\Academy tasks 6\Academy tasks 6\obj\Debug\netcoreapp3.1\Academy tasks 6.csproj.CoreCompileInputs.cache
+C:\Users\nigarem\Desktop\C#\Academy tasks 6\Academy tasks 6\obj\Debug\netcoreapp3.1\Academy tasks 6.dll
+C:\Users\nigarem\Desktop\C#\Academy tasks 6\Academy tasks 6\obj\Debug\netcoreapp3.1\Academy tasks 6.pdb
+C:\Users\nigarem\Desktop\C#\Academy tasks 6\Academy tasks 6\obj\Debug\netcoreapp3.1\Academy tasks 6.genruntimeconfig.cache
